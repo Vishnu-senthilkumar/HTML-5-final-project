@@ -7,7 +7,7 @@
 </head>
 <body>
 <header>
-    <h1>Priyanshu Singh</h1>
+    <h1>Vishnu</h1>
     <nav>
         <a href="www.google.co.in">One</a>
         <a href="https://www.youtube.com/">Two</a>
@@ -39,13 +39,11 @@
 <section>
     <h2>More About Me</h2>
     <details>
-        <summary>My Childhood</summary>I grew up in Mumbai.I lived in a small house and I really miss the fun which I had back then.
+        <summary>My Childhood</summary>I am from theni, Tamilnadu.
     </details>
 </section>
 <footer>
     <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="WebDesign">
-    this page was created by Priyanshu Singh & Colleen can Lent
-    To learn more about web design, visit
     <a href="http://www.intro-webdesign.com/">Intro to Web Design</a>
 </footer>
     
